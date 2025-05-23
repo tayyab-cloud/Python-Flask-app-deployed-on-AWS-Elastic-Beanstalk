@@ -6,9 +6,11 @@ This project is a simple **Python Flask web application** deployed on **AWS Elas
 
 ## 🚀 Live Demo
 
-🌍 [Click here to visit the deployed app](https://your-elasticbeanstalk-env-url.amazonaws.com)
+❌ **This app was previously deployed on AWS Elastic Beanstalk.**
+The environment has been terminated to avoid extra costs under the AWS Free Tier.
 
-> Replace the link with your actual Elastic Beanstalk environment URL.
+> You can re-deploy it any time using the `eb create` command.
+
 
 ---
 
